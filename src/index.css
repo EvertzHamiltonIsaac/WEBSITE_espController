@@ -9,8 +9,6 @@
 }
 
 body {
-  max-width: 1400px;
-  height: 100vh;
   margin: auto;
   background-image: url(/public/sebastian-svenson-d2w-_1LJioQ-unsplash.jpg);
   background-size: cover;
